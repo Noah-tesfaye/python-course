@@ -1,0 +1,15 @@
+# EXERCISES
+# ----------
+# 1. Create a dictionary of 5 countries and their capitals
+country_capitals={"America": "washington","Germany":"Berlin","Russia":"Moscow", "UK":"london","France":"Paris" }
+# 2. Add a new country to the dictionary and update one capital
+country_capitals["canada"]:"ottawa"
+# 3. Loop through a dictionary and print all key-value pairs
+
+# 4. Create a dictionary from two lists: one of keys, one of values
+# 5. Count the frequency of each word in a sentence
+# 6. Merge two dictionaries, keeping values from the second if keys overlap
+# 7. Create a nested dictionary for a school with classes and students
+# 8. Filter a dictionary to only include items where value > 50
+# 9. Invert a dictionary (swap keys and values)
+# 10. Find the key with the maximum value in a dictionary
